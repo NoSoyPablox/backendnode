@@ -1,0 +1,35 @@
+Tue Nov 19 2024 03:59:05 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 04:04:10 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Tue Nov 19 2024 04:04:57 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - res.statur is not a function
+Tue Nov 19 2024 04:05:05 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - res.statur is not a function
+Tue Nov 19 2024 04:05:35 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - res.statur is not a function
+Tue Nov 19 2024 04:08:20 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 04:18:23 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'split')
+Tue Nov 19 2024 04:24:43 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 04:25:33 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - error is not defined
+Tue Nov 19 2024 04:27:40 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:27:48 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:27:50 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:27:51 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:27:52 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:07 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:08 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:08 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:09 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:18 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:28:18 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 04:44:32 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Tue Nov 19 2024 04:44:40 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Tue Nov 19 2024 04:44:41 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Tue Nov 19 2024 04:45:03 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Expected ',' or '}' after property value in JSON at position 314
+Tue Nov 19 2024 04:52:18 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 09:32:23 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:35:21 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:35:42 GMT-0600 (hora estándar central) - 400 - ::ffff:127.0.0.1 - Anónimo - Expected double-quoted property name in JSON at position 41
+Tue Nov 19 2024 09:53:10 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:53:25 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:53:26 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:53:27 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:54:04 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - acceso denegado
+Tue Nov 19 2024 09:54:23 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Tue Nov 19 2024 09:54:25 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
